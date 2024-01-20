@@ -1,19 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@300;400;600&family=Open+Sans:wght@300;400;500;600&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
- body {
-    overflow: scroll;
-    overflow-x: hidden;
- }
 
-::-webkit-scrollbar {
-    background-color: black;
-    width: 0rem
-}
 
-/* ::-webkit-scrollbar-thumb {
-    background-color: transparent
-} */
+
 
